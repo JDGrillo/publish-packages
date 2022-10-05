@@ -16,7 +16,7 @@ This exercise checks your ability to publish to a GitHub Packages registry. It i
 
 Please complete the instructions below:
 
-1. Create your own copy of this repository by using the [Use this template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) button.
+1. Create your own copy of this repository by using the [Use this template] button.
 2. Publish a package of your choice. Ensure the package is associated with this repository. Starter packages can be found in [`sample-packages`](sample-packages/) but may need to be configured further to complete this exercise. 
 
 <!-- Add your steps below starting with step 2 -->
